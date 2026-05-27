@@ -4,6 +4,9 @@
 
 This project analyzes and compares retail sales performance between 2020 and 2021 across multiple retail chains. The analysis focuses on understanding sales trends, profit margins, product category performance and regional distribution to help the business identify growth opportunities and areas of decline.
 
+<img width="1567" height="663" alt="Sales Performance" src="https://github.com/user-attachments/assets/8b64e7d0-a814-48a0-8c29-04cdaa6db9fa" />
+
+
 ### Data Source
 
 Sales Performance: The dataset used for this analyis is the "E-Commerce_data.csv" file, containing a detailed information about the analysis of the company
